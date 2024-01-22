@@ -1,0 +1,504 @@
+Arrival Rate: 10
+Average Turnaround Time: 0.03970955747993513
+Total Throughput: 25.174535613800508 processes per second
+Average CPU Utilization: 99.99089383160673%
+Average Number of Processes in Ready Queue: 0.5531631546977015
+
+--------------------------------------------------
+
+Arrival Rate: 11
+Average Turnaround Time: 0.03990305096094374
+Total Throughput: 25.055512829905496 processes per second
+Average CPU Utilization: 99.99069354835166%
+Average Number of Processes in Ready Queue: 0.6079664429485289
+
+--------------------------------------------------
+
+Arrival Rate: 12
+Average Turnaround Time: 0.03933396886119922
+Total Throughput: 25.41843814541907 processes per second
+Average CPU Utilization: 99.98260317431239%
+Average Number of Processes in Ready Queue: 0.6494349206003274
+
+--------------------------------------------------
+
+Arrival Rate: 13
+Average Turnaround Time: 0.039912749035818
+Total Throughput: 25.049339976384122 processes per second
+Average CPU Utilization: 99.9866508092643%
+Average Number of Processes in Ready Queue: 0.6739497266572553
+
+--------------------------------------------------
+
+Arrival Rate: 14
+Average Turnaround Time: 0.04062916513768785
+Total Throughput: 24.608742986207297 processes per second
+Average CPU Utilization: 99.987969801491%
+Average Number of Processes in Ready Queue: 0.7278107305971522
+
+--------------------------------------------------
+
+Arrival Rate: 15
+Average Turnaround Time: 0.03930715400080355
+Total Throughput: 25.438873073158632 processes per second
+Average CPU Utilization: 99.99374784247578%
+Average Number of Processes in Ready Queue: 0.7475575116827615
+
+--------------------------------------------------
+
+Arrival Rate: 16
+Average Turnaround Time: 0.04014867660928064
+Total Throughput: 24.90055786497644 processes per second
+Average CPU Utilization: 99.98481034580439%
+Average Number of Processes in Ready Queue: 0.7926328255165355
+
+--------------------------------------------------
+
+Arrival Rate: 17
+Average Turnaround Time: 0.03967473147127207
+Total Throughput: 25.19648381473793 processes per second
+Average CPU Utilization: 99.96945831655293%
+Average Number of Processes in Ready Queue: 0.8020029673723851
+
+--------------------------------------------------
+
+Arrival Rate: 18
+Average Turnaround Time: 0.039900315701581646
+Total Throughput: 25.059259783297332 processes per second
+Average CPU Utilization: 99.9927184807186%
+Average Number of Processes in Ready Queue: 0.8310106894936418
+
+--------------------------------------------------
+
+Arrival Rate: 19
+Average Turnaround Time: 0.040733242808145574
+Total Throughput: 24.54199142740057 processes per second
+Average CPU Utilization: 99.97777956488207%
+Average Number of Processes in Ready Queue: 0.8698668306663113
+
+--------------------------------------------------
+
+Arrival Rate: 20
+Average Turnaround Time: 0.03937497127181292
+Total Throughput: 25.39009024499426 processes per second
+Average CPU Utilization: 99.97564442365594%
+Average Number of Processes in Ready Queue: 0.8677747023856801
+
+--------------------------------------------------
+
+Arrival Rate: 21
+Average Turnaround Time: 0.03997477428566502
+Total Throughput: 25.00765407921571 processes per second
+Average CPU Utilization: 100.01626312373642%
+Average Number of Processes in Ready Queue: 0.9035457379455946
+
+--------------------------------------------------
+
+Arrival Rate: 22
+Average Turnaround Time: 0.04071947193274461
+Total Throughput: 24.554155334342177 processes per second
+Average CPU Utilization: 99.99300078719573%
+Average Number of Processes in Ready Queue: 0.9303116321814858
+
+--------------------------------------------------
+
+Arrival Rate: 23
+Average Turnaround Time: 0.040043999063952444
+Total Throughput: 24.966575967389318 processes per second
+Average CPU Utilization: 99.98252614594739%
+Average Number of Processes in Ready Queue: 0.9652106735696152
+
+--------------------------------------------------
+
+Arrival Rate: 24
+Average Turnaround Time: 0.03977344939741431
+Total Throughput: 25.141821547389526 processes per second
+Average CPU Utilization: 100.00745736694721%
+Average Number of Processes in Ready Queue: 0.9895760601030763
+
+--------------------------------------------------
+
+Arrival Rate: 25
+Average Turnaround Time: 0.03983432448489416
+Total Throughput: 25.103138627043855 processes per second
+Average CPU Utilization: 100.00782702029181%
+Average Number of Processes in Ready Queue: 0.9997564077045148
+
+--------------------------------------------------
+
+Arrival Rate: 26
+Average Turnaround Time: 0.03989172106230381
+Total Throughput: 25.06344286028357 processes per second
+Average CPU Utilization: 99.98372470022716%
+Average Number of Processes in Ready Queue: 1.0155272708419747
+
+--------------------------------------------------
+
+Arrival Rate: 27
+Average Turnaround Time: 0.03946690936693553
+Total Throughput: 25.33526903243663 processes per second
+Average CPU Utilization: 100.00584122715372%
+Average Number of Processes in Ready Queue: 1.0504118767337964
+
+--------------------------------------------------
+
+Arrival Rate: 28
+Average Turnaround Time: 0.040336640014725006
+Total Throughput: 24.79107021475679 processes per second
+Average CPU Utilization: 100.00561521562696%
+Average Number of Processes in Ready Queue: 1.057469471009232
+
+--------------------------------------------------
+
+Arrival Rate: 29
+Average Turnaround Time: 0.03990579686474875
+Total Throughput: 25.05814961477173 processes per second
+Average CPU Utilization: 99.99913845819957%
+Average Number of Processes in Ready Queue: 1.0840793609601351
+
+--------------------------------------------------
+
+Arrival Rate: 30
+Average Turnaround Time: 0.03977607179288956
+Total Throughput: 25.14070527106471 processes per second
+Average CPU Utilization: 100.00237350192486%
+Average Number of Processes in Ready Queue: 1.0853805755505723
+
+--------------------------------------------------
+
+Arrival Rate: 10
+Average Turnaround Time: 0.039929667468986026
+Total Throughput: 25.035407547597142 processes per second
+Average CPU Utilization: 99.98976558485894%
+Average Number of Processes in Ready Queue: 0.5672597312474841
+
+--------------------------------------------------
+
+Arrival Rate: 11
+Average Turnaround Time: 0.039497671120427104
+Total Throughput: 25.31782353882055 processes per second
+Average CPU Utilization: 100.00531743081409%
+Average Number of Processes in Ready Queue: 0.617995841064613
+
+--------------------------------------------------
+
+Arrival Rate: 12
+Average Turnaround Time: 0.04074131178305188
+Total Throughput: 24.536594089596502 processes per second
+Average CPU Utilization: 99.98735748870999%
+Average Number of Processes in Ready Queue: 0.6665886547970824
+
+--------------------------------------------------
+
+Arrival Rate: 13
+Average Turnaround Time: 0.03980478099033644
+Total Throughput: 25.11934890455806 processes per second
+Average CPU Utilization: 99.98771102275214%
+Average Number of Processes in Ready Queue: 0.6802727256265783
+
+--------------------------------------------------
+
+Arrival Rate: 14
+Average Turnaround Time: 0.04028363851717326
+Total Throughput: 24.817513169582927 processes per second
+Average CPU Utilization: 99.97601581506459%
+Average Number of Processes in Ready Queue: 0.7300040867654479
+
+--------------------------------------------------
+
+Arrival Rate: 15
+Average Turnaround Time: 0.03939876376940055
+Total Throughput: 25.379820104497586 processes per second
+Average CPU Utilization: 100.00662190579513%
+Average Number of Processes in Ready Queue: 0.7475517002891946
+
+--------------------------------------------------
+
+Arrival Rate: 16
+Average Turnaround Time: 0.04018133138847067
+Total Throughput: 24.886474663097594 processes per second
+Average CPU Utilization: 99.99748841974466%
+Average Number of Processes in Ready Queue: 0.7755506151172963
+
+--------------------------------------------------
+
+Arrival Rate: 17
+Average Turnaround Time: 0.040622971947292044
+Total Throughput: 24.612032422989778 processes per second
+Average CPU Utilization: 99.98433301401917%
+Average Number of Processes in Ready Queue: 0.8033795252204571
+
+--------------------------------------------------
+
+Arrival Rate: 18
+Average Turnaround Time: 0.04020580478015944
+Total Throughput: 24.870784159667256 processes per second
+Average CPU Utilization: 100.01383503800515%
+Average Number of Processes in Ready Queue: 0.8427289341490396
+
+--------------------------------------------------
+
+Arrival Rate: 19
+Average Turnaround Time: 0.039707171022160925
+Total Throughput: 25.182084439693792 processes per second
+Average CPU Utilization: 100.00019673029156%
+Average Number of Processes in Ready Queue: 0.8717128045519945
+
+--------------------------------------------------
+
+Arrival Rate: 20
+Average Turnaround Time: 0.040296703519546
+Total Throughput: 24.81025761303728 processes per second
+Average CPU Utilization: 100.00769117023086%
+Average Number of Processes in Ready Queue: 0.8798334330318643
+
+--------------------------------------------------
+
+Arrival Rate: 21
+Average Turnaround Time: 0.040498259635870504
+Total Throughput: 24.68933145237892 processes per second
+Average CPU Utilization: 99.99045926096855%
+Average Number of Processes in Ready Queue: 0.9189731224174335
+
+--------------------------------------------------
+
+Arrival Rate: 22
+Average Turnaround Time: 0.04006873518450538
+Total Throughput: 24.950186237321667 processes per second
+Average CPU Utilization: 99.99098931288736%
+Average Number of Processes in Ready Queue: 0.9311368186882614
+
+--------------------------------------------------
+
+Arrival Rate: 23
+Average Turnaround Time: 0.0395904100674645
+Total Throughput: 25.24877684514391 processes per second
+Average CPU Utilization: 99.9619352550697%
+Average Number of Processes in Ready Queue: 0.9528790780357987
+
+--------------------------------------------------
+
+Arrival Rate: 24
+Average Turnaround Time: 0.040152259404431095
+Total Throughput: 24.90474624566599 processes per second
+Average CPU Utilization: 100.02011540252029%
+Average Number of Processes in Ready Queue: 0.990911579675752
+
+--------------------------------------------------
+
+Arrival Rate: 25
+Average Turnaround Time: 0.03961680839774213
+Total Throughput: 25.23682025293683 processes per second
+Average CPU Utilization: 99.98207881600945%
+Average Number of Processes in Ready Queue: 0.9878427391185298
+
+--------------------------------------------------
+
+Arrival Rate: 26
+Average Turnaround Time: 0.0406028455519351
+Total Throughput: 24.624941363104426 processes per second
+Average CPU Utilization: 99.99484203682196%
+Average Number of Processes in Ready Queue: 1.0173927300588281
+
+--------------------------------------------------
+
+Arrival Rate: 27
+Average Turnaround Time: 0.04060803321206828
+Total Throughput: 24.62529000423276 processes per second
+Average CPU Utilization: 100.01090789242626%
+Average Number of Processes in Ready Queue: 1.047867518854204
+
+--------------------------------------------------
+
+Arrival Rate: 28
+Average Turnaround Time: 0.03997752535019384
+Total Throughput: 25.011724919340256 processes per second
+Average CPU Utilization: 100.00732583392391%
+Average Number of Processes in Ready Queue: 1.0454327784044377
+
+--------------------------------------------------
+
+Arrival Rate: 29
+Average Turnaround Time: 0.03995487777837675
+Total Throughput: 25.02783750568155 processes per second
+Average CPU Utilization: 100.01983773558314%
+Average Number of Processes in Ready Queue: 1.0622249181851262
+
+--------------------------------------------------
+
+Arrival Rate: 30
+Average Turnaround Time: 0.03919117545124282
+Total Throughput: 25.51516037069004 processes per second
+Average CPU Utilization: 100.00177448860474%
+Average Number of Processes in Ready Queue: 1.0856564389753378
+
+--------------------------------------------------
+
+Arrival Rate: 10
+Average Turnaround Time: 0.04028941842385125
+Total Throughput: 24.815765359915034 processes per second
+Average CPU Utilization: 99.9823101572744%
+Average Number of Processes in Ready Queue: 0.5694008780755345
+
+--------------------------------------------------
+
+Arrival Rate: 11
+Average Turnaround Time: 0.040517281352817194
+Total Throughput: 24.678699069962526 processes per second
+Average CPU Utilization: 100.0018694930366%
+Average Number of Processes in Ready Queue: 0.6200258336792072
+
+--------------------------------------------------
+
+Arrival Rate: 12
+Average Turnaround Time: 0.03960903054811513
+Total Throughput: 25.23676729263495 processes per second
+Average CPU Utilization: 99.96511108243989%
+Average Number of Processes in Ready Queue: 0.6392196220681916
+
+--------------------------------------------------
+
+Arrival Rate: 13
+Average Turnaround Time: 0.04036888614175556
+Total Throughput: 24.76765227401944 processes per second
+Average CPU Utilization: 99.98539280428069%
+Average Number of Processes in Ready Queue: 0.681776826421512
+
+--------------------------------------------------
+
+Arrival Rate: 14
+Average Turnaround Time: 0.04017856800021836
+Total Throughput: 24.880388957543353 processes per second
+Average CPU Utilization: 99.96958881125981%
+Average Number of Processes in Ready Queue: 0.7202670163981327
+
+--------------------------------------------------
+
+Arrival Rate: 15
+Average Turnaround Time: 0.039879818332028395
+Total Throughput: 25.073545678140235 processes per second
+Average CPU Utilization: 99.99327282142868%
+Average Number of Processes in Ready Queue: 0.7383692893923955
+
+--------------------------------------------------
+
+Arrival Rate: 16
+Average Turnaround Time: 0.04016007001417404
+Total Throughput: 24.89752530304127 processes per second
+Average CPU Utilization: 100.00360035548235%
+Average Number of Processes in Ready Queue: 0.7836955873326495
+
+--------------------------------------------------
+
+Arrival Rate: 17
+Average Turnaround Time: 0.03972919018033205
+Total Throughput: 25.167310848313925 processes per second
+Average CPU Utilization: 99.98973225978533%
+Average Number of Processes in Ready Queue: 0.8042374182715766
+
+--------------------------------------------------
+
+Arrival Rate: 18
+Average Turnaround Time: 0.03992884328366047
+Total Throughput: 25.039780316949944 processes per second
+Average CPU Utilization: 99.98859048061742%
+Average Number of Processes in Ready Queue: 0.8378775171007866
+
+--------------------------------------------------
+
+Arrival Rate: 19
+Average Turnaround Time: 0.03965509926892089
+Total Throughput: 25.21700370096532 processes per second
+Average CPU Utilization: 100.01218086153025%
+Average Number of Processes in Ready Queue: 0.8629501103560194
+
+--------------------------------------------------
+
+Arrival Rate: 20
+Average Turnaround Time: 0.03970549759459806
+Total Throughput: 25.18503059252797 processes per second
+Average CPU Utilization: 100.00650528627449%
+Average Number of Processes in Ready Queue: 0.8967641137942548
+
+--------------------------------------------------
+
+Arrival Rate: 21
+Average Turnaround Time: 0.03989620923143767
+Total Throughput: 25.05770133813449 processes per second
+Average CPU Utilization: 99.98623901516721%
+Average Number of Processes in Ready Queue: 0.9120061457968038
+
+--------------------------------------------------
+
+Arrival Rate: 22
+Average Turnaround Time: 0.04021885868371903
+Total Throughput: 24.860830226801244 processes per second
+Average CPU Utilization: 99.99362766909107%
+Average Number of Processes in Ready Queue: 0.9345742263634593
+
+--------------------------------------------------
+
+Arrival Rate: 23
+Average Turnaround Time: 0.040258670640410256
+Total Throughput: 24.83363330527539 processes per second
+Average CPU Utilization: 100.00729469189176%
+Average Number of Processes in Ready Queue: 0.9682831069131319
+
+--------------------------------------------------
+
+Arrival Rate: 24
+Average Turnaround Time: 0.03993685788824485
+Total Throughput: 25.034200199554665 processes per second
+Average CPU Utilization: 99.98883729583157%
+Average Number of Processes in Ready Queue: 0.9867618919835088
+
+--------------------------------------------------
+
+Arrival Rate: 25
+Average Turnaround Time: 0.040497171144302437
+Total Throughput: 24.69240245780896 processes per second
+Average CPU Utilization: 100.00747207030749%
+Average Number of Processes in Ready Queue: 0.9983807198029911
+
+--------------------------------------------------
+
+Arrival Rate: 26
+Average Turnaround Time: 0.040301945644472835
+Total Throughput: 24.809565610000277 processes per second
+Average CPU Utilization: 99.98992123129115%
+Average Number of Processes in Ready Queue: 1.029824283212817
+
+--------------------------------------------------
+
+Arrival Rate: 27
+Average Turnaround Time: 0.040016957947192976
+Total Throughput: 24.988489805052936 processes per second
+Average CPU Utilization: 100.02300947624556%
+Average Number of Processes in Ready Queue: 1.0497251726201475
+
+--------------------------------------------------
+
+Arrival Rate: 28
+Average Turnaround Time: 0.03956765331227035
+Total Throughput: 25.27035121413052 processes per second
+Average CPU Utilization: 99.99113769760261%
+Average Number of Processes in Ready Queue: 1.0509145920821557
+
+--------------------------------------------------
+
+Arrival Rate: 29
+Average Turnaround Time: 0.039493787238763255
+Total Throughput: 25.318350451875805 processes per second
+Average CPU Utilization: 100.01095268939413%
+Average Number of Processes in Ready Queue: 1.0606300287330923
+
+--------------------------------------------------
+
+Arrival Rate: 30
+Average Turnaround Time: 0.03958495429652481
+Total Throughput: 25.26193304998815 processes per second
+Average CPU Utilization: 100.01863621800004%
+Average Number of Processes in Ready Queue: 1.1018787896793416
+
+--------------------------------------------------
+
